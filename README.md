@@ -1,6 +1,5 @@
 <code>🎓 Junior Node.js developer / Bytebrand Outsourcing AG </code>
 <code>⚪ Community: Metarhia</code>
-
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
