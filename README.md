@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@OleksandrTsyhankov](https://telegram.me/@OleksandrTsyhankov)</code>
+<code>💬 telegram: [@OleksandrTsyhankov](https://telegram.me/OleksandrTsyhankov)</code>
 <code>📫 [ovtsyhankov@gmail.com](mailto:ovtsyhankov@gmail.com)</code>
