@@ -1,4 +1,4 @@
-<code>🎓 Now :EPAM Systems / Junior Systems Engineer </code>
+<code>🎓 Now: EPAM Systems / Junior Systems Engineer </code>
 <code>🎓 Past: Junior Node.js developer / Bytebrand Outsourcing AG </code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
