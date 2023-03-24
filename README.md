@@ -1,3 +1,5 @@
+----
+
 <code>🎓 Now: EPAM Systems / Junior Systems Engineer </code>
 <code>🎓 Past: Junior Node.js developer / Bytebrand Outsourcing AG </code>
 <code>⚪ Community: Metarhia</code>
@@ -11,6 +13,8 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@OleksandrTsyhankov](https://telegram.me/OleksandrTsyhankov)</code>
 <code>📫 [mail:ovtsyhankov@gmail.com](mailto:ovtsyhankov@gmail.com)</code>
+
+----
 
 ### :bell: Languages and Tools :
 
