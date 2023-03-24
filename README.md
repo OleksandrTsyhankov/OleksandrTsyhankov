@@ -11,3 +11,9 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@OleksandrTsyhankov](https://telegram.me/OleksandrTsyhankov)</code>
 <code>📫 [mail:ovtsyhankov@gmail.com](mailto:ovtsyhankov@gmail.com)</code>
+
+### My Stats :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrTsyhankovs&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OleksandrTsyhankov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrTsyhankov&theme=github_dark)
