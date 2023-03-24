@@ -12,10 +12,13 @@
 <code>💬 telegram: [@OleksandrTsyhankov](https://telegram.me/OleksandrTsyhankov)</code>
 <code>📫 [mail:ovtsyhankov@gmail.com](mailto:ovtsyhankov@gmail.com)</code>
 
-### My Stats :
+### :bell: Languages and Tools :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrTsyhankovs&theme=github_dark)
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,docker,gcp,git,gitlab,js,jenkins,linux,nodejs,postman,powershell,py,vscode)](https://skillicons.dev)
 
+----
+
+### :bell: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrTsyhankov&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OleksandrTsyhankov&theme=github_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrTsyhankov&theme=github_dark)
