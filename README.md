@@ -18,7 +18,7 @@
 
 ### :bell: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,bash,docker,gcp,git,gitlab,js,jenkins,linux,nodejs,postman,powershell,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,docker,gcp,git,gitlab,kubernetes,js,jenkins,linux,nodejs,postman,py,vscode)](https://skillicons.dev)
 
 ----
 
